@@ -28,7 +28,7 @@ class ProductDetailsPage extends StatelessWidget {
           Container(
             height: 150,
             decoration: BoxDecoration(
-              color: const Color.fromRGBO(245, 247, 249, 1),
+              color: const Color.fromRGBO(244, 247, 249, 1),
               borderRadius: BorderRadius.circular(40),
             ),
             child: Column(
